@@ -1,0 +1,29 @@
+{
+  "name": "jquery--accordion",
+  "version": "1.0.0",
+  "main": [
+    "js/accordion.js"
+  ],
+  "dependencies": {
+    "jquery": "~2.2.0"
+  },
+  "ignore": [
+    "config",
+    "docs",
+    "gulp",
+    "lib",
+    "test",
+    "composer.json",
+    "CONTRIBUTING.md",
+    "gulpfile.js",
+    "meteor-README.md",
+    "package.js",
+    "package.json",
+    "sache.json",
+    ".editorconfig",
+    ".npm",
+    ".gitignore",
+    ".npmignore",
+    ".versions"
+  ]
+}
